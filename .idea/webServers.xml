@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3875c7ba-8711-4e60-b620-ed0dee7da6a0" name="localhost (1)" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="F:\phpStudy\PHPTutorial\WWW" accessType="MOUNT" />
+      </webServer>
+      <webServer id="97bfeb4b-a493-486c-8a8f-886ac4297f0a" name="Apache" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>localhost</name>
+        <servers>
+          <name value="localhost (1)" />
+          <name value="Apache" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>
